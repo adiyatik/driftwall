@@ -1,0 +1,12 @@
+# Swift / build output
+.build/
+build/
+.swiftpm/
+*.xcodeproj/
+xcuserdata/
+DerivedData/
+
+# macOS junk
+.DS_Store
+__MACOSX/
+._*
